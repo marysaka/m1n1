@@ -11,9 +11,9 @@
 //#define EARLY_PROXY_TIMEOUT 5
 
 // Minimal build for bring-up
-//#define BRINGUP
+#define BRINGUP
 // Disable display configuration / bringup on desktop devices
-//#define NO_DISPLAY
+#define NO_DISPLAY
 
 // Print RTKit logs to the console
 //#define RTKIT_SYSLOG
